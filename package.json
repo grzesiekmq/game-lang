@@ -1,0 +1,12 @@
+{
+  "name": "g",
+  "version": "1.0.0",
+  "description": "game lang",
+  "main": "g.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server"
+  },
+  "author": "",
+  "license": "MIT"
+}
